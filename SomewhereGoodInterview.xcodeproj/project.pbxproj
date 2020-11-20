@@ -101,12 +101,12 @@
 		966536C125683C9A0063C429 /* SomewhereGoodInterview */ = {
 			isa = PBXGroup;
 			children = (
-				966536F525683CB60063C429 /* somewheregood.svg */,
 				966536C225683C9A0063C429 /* AppDelegate.swift */,
 				966536C425683C9A0063C429 /* SceneDelegate.swift */,
 				966536C625683C9A0063C429 /* ViewController.swift */,
 				966536C825683C9A0063C429 /* Main.storyboard */,
 				966536CB25683C9C0063C429 /* Assets.xcassets */,
+				966536F525683CB60063C429 /* somewheregood.svg */,
 				966536CD25683C9C0063C429 /* LaunchScreen.storyboard */,
 				966536D025683C9C0063C429 /* Info.plist */,
 			);
