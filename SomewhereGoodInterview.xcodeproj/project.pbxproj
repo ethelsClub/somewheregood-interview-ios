@@ -15,7 +15,6 @@
 		966536CF25683C9C0063C429 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 966536CD25683C9C0063C429 /* LaunchScreen.storyboard */; };
 		966536DA25683C9C0063C429 /* SomewhereGoodInterviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966536D925683C9C0063C429 /* SomewhereGoodInterviewTests.swift */; };
 		966536E525683C9C0063C429 /* SomewhereGoodInterviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966536E425683C9C0063C429 /* SomewhereGoodInterviewUITests.swift */; };
-		966536F625683CB60063C429 /* somewheregood.svg in Resources */ = {isa = PBXBuildFile; fileRef = 966536F525683CB60063C429 /* somewheregood.svg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		966536E025683C9C0063C429 /* SomewhereGoodInterviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SomewhereGoodInterviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		966536E425683C9C0063C429 /* SomewhereGoodInterviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomewhereGoodInterviewUITests.swift; sourceTree = "<group>"; };
 		966536E625683C9C0063C429 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		966536F525683CB60063C429 /* somewheregood.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = somewheregood.svg; path = "../../../../Downloads/Personal Website (24)/somewheregood.svg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +104,6 @@
 				966536C625683C9A0063C429 /* ViewController.swift */,
 				966536C825683C9A0063C429 /* Main.storyboard */,
 				966536CB25683C9C0063C429 /* Assets.xcassets */,
-				966536F525683CB60063C429 /* somewheregood.svg */,
 				966536CD25683C9C0063C429 /* LaunchScreen.storyboard */,
 				966536D025683C9C0063C429 /* Info.plist */,
 			);
@@ -237,7 +234,6 @@
 				966536CF25683C9C0063C429 /* LaunchScreen.storyboard in Resources */,
 				966536CC25683C9C0063C429 /* Assets.xcassets in Resources */,
 				966536CA25683C9A0063C429 /* Main.storyboard in Resources */,
-				966536F625683CB60063C429 /* somewheregood.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
