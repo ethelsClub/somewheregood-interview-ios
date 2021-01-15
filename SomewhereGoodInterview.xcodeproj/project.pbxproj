@@ -80,7 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				966536C125683C9A0063C429 /* SomewhereGoodInterview */,
-				966536D825683C9C0063C429 /* SomewhereGoodInterviewTests */,
 				966536E325683C9C0063C429 /* SomewhereGoodInterviewUITests */,
 				966536C025683C9A0063C429 /* Products */,
 			);
@@ -106,6 +105,7 @@
 				966536CB25683C9C0063C429 /* Assets.xcassets */,
 				966536CD25683C9C0063C429 /* LaunchScreen.storyboard */,
 				966536D025683C9C0063C429 /* Info.plist */,
+				966536D825683C9C0063C429 /* SomewhereGoodInterviewTests */,
 			);
 			path = SomewhereGoodInterview;
 			sourceTree = "<group>";
@@ -437,6 +437,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 57675254DH;
 				INFOPLIST_FILE = SomewhereGoodInterview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -455,6 +456,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 57675254DH;
 				INFOPLIST_FILE = SomewhereGoodInterview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
