@@ -15,6 +15,9 @@
 		A3500FCE25A79647000B1224 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3500FCC25A79647000B1224 /* LoginViewController.swift */; };
 		A3500FCF25A79647000B1224 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3500FCD25A79647000B1224 /* LoginViewController.xib */; };
 		A3500FD725A79813000B1224 /* LoginViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3500FD625A79813000B1224 /* LoginViewControllerTests.swift */; };
+		A3FDE89725B2040500B9ADAC /* SGTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FDE89625B2040500B9ADAC /* SGTabBarController.swift */; };
+		A3FDE89F25B2052A00B9ADAC /* DirectMessagesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FDE89E25B2052A00B9ADAC /* DirectMessagesListViewController.swift */; };
+		A3FDE8A425B20A4900B9ADAC /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FDE8A325B20A4900B9ADAC /* NetworkManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		A3500FCC25A79647000B1224 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		A3500FCD25A79647000B1224 /* LoginViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
 		A3500FD625A79813000B1224 /* LoginViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewControllerTests.swift; sourceTree = "<group>"; };
+		A3FDE89625B2040500B9ADAC /* SGTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SGTabBarController.swift; sourceTree = "<group>"; };
+		A3FDE89E25B2052A00B9ADAC /* DirectMessagesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DirectMessagesListViewController.swift; sourceTree = "<group>"; };
+		A3FDE8A325B20A4900B9ADAC /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +112,9 @@
 				966536D025683C9C0063C429 /* Info.plist */,
 				A3500FCC25A79647000B1224 /* LoginViewController.swift */,
 				A3500FCD25A79647000B1224 /* LoginViewController.xib */,
+				A3FDE89625B2040500B9ADAC /* SGTabBarController.swift */,
+				A3FDE89E25B2052A00B9ADAC /* DirectMessagesListViewController.swift */,
+				A3FDE8A325B20A4900B9ADAC /* NetworkManager.swift */,
 			);
 			path = SomewhereGoodInterview;
 			sourceTree = "<group>";
@@ -258,8 +267,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3FDE8A425B20A4900B9ADAC /* NetworkManager.swift in Sources */,
+				A3FDE89F25B2052A00B9ADAC /* DirectMessagesListViewController.swift in Sources */,
 				A3500FCE25A79647000B1224 /* LoginViewController.swift in Sources */,
 				966536C325683C9A0063C429 /* AppDelegate.swift in Sources */,
+				A3FDE89725B2040500B9ADAC /* SGTabBarController.swift in Sources */,
 				966536C525683C9A0063C429 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
